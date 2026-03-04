@@ -1,21 +1,9 @@
-# Maven / Java build
-target/
-*.class
-*.jar
-*.war
-*.ear
-
 # Logs
 *.log
-
-# Spring Boot
-*.pid
-*.pid.lock
 
 # IDEs
 .idea/
 *.iml
-.vscode/
 
 # OS files
 .DS_Store
@@ -24,3 +12,7 @@ Thumbs.db
 # Environment / local config
 .env
 *.local
+
+# React client
+client/node_modules/
+client/dist/
