@@ -273,7 +273,7 @@ function App() {
             <a href="https://gitlab.iesvirgendelcarmen.com/PedroGV" target="_blank" rel="noreferrer">
               GitLab
             </a>
-            <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/pedro-guti%C3%A9rrez-vico-3a04872b8/" target="_blank" rel="noreferrer">
               LinkedIn
             </a>
           </div>
