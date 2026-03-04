@@ -252,7 +252,7 @@ function App() {
             <h2>Busco oportunidades como Backend Developer (Java/Spring)</h2>
             <p>Si necesitas un perfil con foco en APIs seguras, arquitectura limpia y capacidad real de integración full stack, hablemos.</p>
             <div className="cta-actions">
-              <a className="btn btn-primary" href="mailto:tuemail@ejemplo.com">
+              <a className="btn btn-primary" href="mailto:pedrogutivico@gmail.com">
                 Contactar por email
               </a>
               <a className="btn btn-ghost" href="https://github.com/PedroGutVic" target="_blank" rel="noreferrer">
